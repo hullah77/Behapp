@@ -6,7 +6,7 @@ load.daily.data <- function(daily.dataset) {
     return(daily.data)
 }
 
-
+3+3
 #Load weekly data
 
 
